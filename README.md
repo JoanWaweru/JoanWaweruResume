@@ -1,3 +1,3 @@
 # JoanWaweruResume
 
-Creating a Resume
+Link to my Resume: https://joanwaweru.github.io/JoanWaweruResume/
